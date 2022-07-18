@@ -1,0 +1,18 @@
+.main-home-block {
+  width: 700px;
+  margin-left: 20%;
+  margin-top: 20%;
+  padding: 10px 15px 20px 15px;
+  border-radius: 40px;
+  box-shadow: 0 0 10px #dce7fc;
+  background-color: #f1f7ff;
+}
+.main-home-block__heading {
+  margin-top: 10px;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #94b1fa;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+}
