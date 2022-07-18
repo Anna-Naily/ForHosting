@@ -1,0 +1,17 @@
+.articles-block {
+  margin-left: 10%;
+  width: 500px;
+  border: 2px solid #b08eee9f;
+  padding: 20px;
+  background-color: #f6f8fd;
+}
+.articles-heading {
+  text-align: center;
+  font-size: 25px;
+}
+.articles-btn {
+  margin: 10px 0px 10px 190px;
+}
+.spinner {
+  margin-left: 25%;
+}
